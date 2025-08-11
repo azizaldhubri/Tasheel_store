@@ -23,9 +23,9 @@
 الواجهه الرئيسية للمشروع </br><br/>
  
 واجهة سلة المشتريات </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/cart.PNG)  </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/cart.PNG)  </br><br/></br><br/>
 واجهة العروض  </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/Discount.PNG)  </br>
+![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/Discount.PNG)  </br></br><br/>
 واجهة المنتجات - صنف الهواتف </br><br/>
 ![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/smartphone.PNG)  </br><br/>
  
