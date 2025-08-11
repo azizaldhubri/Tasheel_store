@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# مشروع إدارة الموارد البشرية 
+ 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## التقنيات المستخدمه في المشروع
 
-## Available Scripts
+استخدمت لبناء المشروع في الواجهه الامامية React.js , Material_-Ui , BooTstrap , Context,React Hooks
+أيضا مكتبات اخرى لأستخراج تقارير Pdf ,Excel ,
 
-In the project directory, you can run:
+###  وصف المشروع
 
-### `npm start`
+يتميز المشروع بالتالي :<br/>
+ * إضافة موظفين جدد وتحديد الصلاحية المناسبه لهم   </br>
+ * إدارة المرتبات والخصم التلقائي عند إضافة غياب أو زيادة المرتب عند وجود بدلات للموظف </br>
+ * إدارة المهمام حيث يتمكن الموظفين من رفع الملفات ومراقبة تقدم المهمه </br>
+ * إدارة الإجازات - يتقدم الموظف بطلب إجازه ويصل للمدير إشعار بوجود طلب إجازة من احد الموظفين ويتم قبولها او الرفض </br>
+ * سهولة المراقبة حيث يصل لمدير النظام إشعار عند إضافة موظف جديد وسهولة البحث </br>
+ * سرعة استرجاع البيانات -لان البيانات المرجوعه حسب paginatetion ولس كل البينات  </br> 
+ * عرض التمثيل البياني للبيانات </br>
+ * استجابة لجميع احجام الشاشات </br>
+ * سهولة التنقل بين الصفحات </br>
+ * بناء مكونات قابله للأستخدام في مشاريع اخرى </br>
+   
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 
+ ### الواجهة الخلفيه للمشروع 
+استخدمت Laravel لبناء backend  ولكن تعذر رفعها للأستضافه نظرا لعدم تجديد رسوم الأستضافة 
+ 
+ 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### نماذج من الواجهه الامامية للمشروع (Screenshots) 
+- - -
+الواجهه الرئيسية للمشروع</br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/home1.2.PNG)  </br><br/>
+الواجهه الرئيسية للمشروع </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/home1.PNG)  </br><br/>
+واجهة صلاحيات المستخدمين </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/permissions.PNG)  </br><br/>
+واجهة المستحدمين </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/users1.1.PNG)  </br>
+واجهة المستخدمين باستحدام Data grid -اكثر مرونه </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/users1.2.PNG)  </br><br/>
+واجهة الاقسام </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/department.PNG)  </br>
+واجهة رواتب الموظفين </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/Salaries.PNG)  </br>
+واجهة ادارة طلبات الاجازات (قبول او رفض)</br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/Leave_requests.PNG)  </br>
+واجهة عرض ارصدة الاجازات للموظفين </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/leave_balances.PNG)  </br>
+واجهة عرض المهام المرسله والواردة </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/task.PNG)  </br>
 
-### `npm test`
+ - - -
+## الخطة القادمة من المشروع 
+ترجمة المشروع الى اللغة الانجليزية واضافة button تبديل اللغة </br>
+إضافة اللمسات الاخيرة للمشروع مثل تمكين المستخدم لتغيير لون واجهة العرض </br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
