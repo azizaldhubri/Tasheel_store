@@ -19,9 +19,9 @@
 ### نماذج من المشروع (Screenshots) 
 - - -
 الواجهه الرئيسية للمشروع</br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/home1.2.PNG)  </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/home.PNG)  </br><br/>
 الواجهه الرئيسية للمشروع </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/home1.PNG)  </br><br/>
+ 
 واجهة صلاحيات المستخدمين </br><br/>
 ![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/permissions.PNG)  </br><br/>
 واجهة المستحدمين </br><br/>
