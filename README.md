@@ -25,7 +25,7 @@
 واجهة سلة المشتريات </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/Tasheel_store/images/shopping_cart.PNG)  </br><br/></br><br/>
 واجهة العروض  </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri.github.io/Tasheel_store/images/product.PNG)  </br></br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/Tasheel_store/images/product.PNG)  </br></br><br/>
 واجهة المنتجات - صنف الهواتف </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/Tasheel_store/images/product2.PNG)  </br><br/>
  
