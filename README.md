@@ -19,15 +19,15 @@
 ### نماذج من المشروع (Screenshots) 
 - - -
 الواجهه الرئيسية للمشروع</br><br/> 
-![واجهة التطبيق](https://azizaldhubri.github.io/Tasheel_store/images/1.PNG)  </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/Tasheel_store/images/home.PNG)  </br><br/>
 الواجهه الرئيسية للمشروع </br><br/>
  
 واجهة سلة المشتريات </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/cart.PNG)  </br><br/></br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/Tasheel_store/images/shopping_cart.PNG)  </br><br/></br><br/>
 واجهة العروض  </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/Discount.PNG)  </br></br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri.github.io/Tasheel_store/images/product.PNG)  </br></br><br/>
 واجهة المنتجات - صنف الهواتف </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/smartphone.PNG)  </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/Tasheel_store/images/product2.PNG)  </br><br/>
  
  
  - - - 
