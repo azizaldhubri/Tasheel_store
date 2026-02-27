@@ -19,7 +19,7 @@
 ### نماذج من المشروع (Screenshots) 
 - - -
 الواجهه الرئيسية للمشروع</br><br/> 
-![واجهة التطبيق](https://github.com/azizaldhubri/Tasheel_store/blob/main/public/images/home.PNG)  </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/Tasheel_store/images/home.PNG)  </br><br/>
 الواجهه الرئيسية للمشروع </br><br/>
  
 واجهة سلة المشتريات </br><br/>
